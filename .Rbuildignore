@@ -1,0 +1,17 @@
+^codemeta\.json$
+^.*\.Rproj$
+^\.Rproj\.user$
+^pics$
+^doc$
+^scripts$
+^\.travis\.yml$
+^CONTRIBUTING\.md$
+^CODE_OF_CONDUCT\.md$
+^NEWS\.md$
+^appveyor\.yml$
+^example_43\.R$
+^example_43\.log$
+^example_43$
+^LICENSE$
+^\.github$
+
