@@ -1,0 +1,48 @@
+rm: cannot remove ‘*.png’: No such file or directory
+Loading required package: beautier
+Loading required package: babette
+Loading required package: beastier
+Loading required package: mauricer
+Loading required package: tracerer
+Registered S3 method overwritten by 'pryr':
+  method      from
+  print.bytes Rcpp
+slurmstepd: error: *** JOB 10270199 ON pg-node211 CANCELLED AT 2020-03-23T10:07:57 DUE TO TIME LIMIT ***
+
+
+###############################################################################
+Peregrine Cluster
+Job 10270199 for user 'p230198'
+Finished at: Mon Mar 23 10:07:59 CET 2020
+
+Job details:
+============
+
+Name                : pirex45
+User                : p230198
+Partition           : gelifes
+Nodes               : pg-node211
+Cores               : 1
+State               : CANCELLED,TIMEOUT
+Submit              : 2020-03-22T10:07:41
+Start               : 2020-03-22T10:07:41
+End                 : 2020-03-23T10:07:58
+Reserved walltime   : 1-00:00:00
+Used walltime       : 1-00:00:17
+Used CPU time       :   23:42:50 (efficiency: 98.79%)
+% User (Computation): 98.93%
+% System (I/O)      :  1.07%
+Mem reserved        : 10G/node
+Max Mem used        : 1.63G (pg-node211)
+Max Disk Write      : 0.00  (pg-node211)
+Max Disk Read       : 112.64K (pg-node211)
+
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Peregrine in your publications:
+
+https://wiki.hpc.rug.nl/peregrine/additional_information/scientific_output
+
+################################################################################
